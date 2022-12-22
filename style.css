@@ -263,6 +263,7 @@ body{
 }
 #Project_1_Subtitle{
 	padding:10px;
+	justify-self: center;
 	font-weight: 1;
 	align-self: center;
 	border-radius:20px;
